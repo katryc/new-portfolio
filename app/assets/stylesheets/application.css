@@ -14,7 +14,7 @@
  *= require_self
  */
 html {
-  font-family: blenderthin,monospace;;
+  font-family: blenderthin,monospace,Roboto;
   font-weight: lighter;
   letter-spacing: .025em;
   color: #555;
