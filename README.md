@@ -18,8 +18,7 @@ Uses the following technology:
 * [Materialize] - awesome front-end framework
 * [Postgresql] - a powerful the world's most advanced open source database
 * [slim] - dev-friendly template language
-* [rspec-rails] - simple testing environment
-*[Parallax] - effect
+* [Parallax] - effect
 
 
 
