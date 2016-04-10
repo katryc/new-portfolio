@@ -20,12 +20,16 @@ h5 {
 .resume {
   display: block;
   position: relative;
-  width: 900px;
+  width: 870px;
   padding: 10px 0px 10px 10px;
 }
 .brand-logo img{
 
   width: 300px;
+  margin: 10px;
+}
+.small-logo {
+  width: 150px;
   margin: 10px;
 }
 
