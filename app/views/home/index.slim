@@ -11,11 +11,37 @@ html lang="en"
       .nav-wrapper.container
         a#logo-container.brand-logo href="#"
           img alt=("my logo") src="assets/logo.png" /
+
+      ul#dropdown2.dropdown-content
+            li
+              a href=".bio"
+              .icon-block
+                i.material-icons.white view_headline
+
+              li
+                a href=".bio" 
+                   | about me
+                   span.badge
+               li
+                 a href=".resume"
+                   | resume
+                   span.new.badge
+               li
+                 a href="#!"
+             a.btn.dropdown-button data-activates="dropdown2" href="#!"
+               |
+               i.mdi-navigation-arrow-drop-down.right
+
+
+
+
+
+
         ul.right.hide-on-med-and-down
           li
             a href="#"
-             .icon-block.white
-               i.material-icons view_headline
+             .icon-block
+               i.material-icons.white view_headline
         ul#nav-mobile.side-nav
           li
             a href="#"  view_headline
@@ -103,7 +129,7 @@ html lang="en"
       .container
         .row
           .col.l6.s12
-            h5.white-text Dev's Bio
+            h5.white-text.bio Dev's Bio
             p.grey-text.text-lighten-4 I am a recent graduate of href="https://wyncode.co" Wyncode Academy with a passion and ambition to master the art of code.
           .col.l3.s12
             h5.white-text Fav Webs
