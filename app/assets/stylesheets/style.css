@@ -12,7 +12,11 @@ nav .brand-logo {
 
 
 }
-
+.profile{
+  position: relative;
+  width: inherit;
+  padding: 5px;
+}
 .brand-logo img{
 
     width: 150px;
