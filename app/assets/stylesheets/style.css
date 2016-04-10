@@ -14,6 +14,7 @@ nav .brand-logo {
   background-color: #26a69a;
 }
 h5 {
+  display: block;
   margin-left: 20px;
 }
 .resume {
@@ -29,6 +30,7 @@ h5 {
 }
 
 p {
+
   line-height: 2rem;
 }
 
