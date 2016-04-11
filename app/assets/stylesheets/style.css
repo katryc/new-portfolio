@@ -45,13 +45,7 @@ p {
 
 /*-------------------------*/
 
-.card {
-  position: relative;
-  float: left;
-  padding-bottom: 25%;
-  width: 25%;
-  text-align: center;
-}
+
 
 .card__front,
 .card__back {
