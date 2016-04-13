@@ -37,7 +37,7 @@ h5 {
 }
 .small-logo {
   width: 150px;
-  margin: 10px 0px 0px 10px;
+  margin: 10px 0px -5px 10px;
 }
 
 p {
@@ -46,6 +46,7 @@ p {
 
 }
 h3 {font-family: 'Raleway', sans-serif;
+    font-weight: 500;
     color: #c9c9c9;
 }
 
