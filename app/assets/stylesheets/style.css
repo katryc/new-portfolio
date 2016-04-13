@@ -46,10 +46,10 @@ h3 {font-family: 'Raleway', sans-serif;
   color: #26a69a;
 }
 .slider
-{height: 850px;}
+{height: 850px !important;}
 
 .slides {
-  height: 800px;
+  height: 800px !important;
 }
 
 .parallax-container {
