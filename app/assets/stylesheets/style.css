@@ -38,13 +38,17 @@ p {
   line-height: 3rem;
 
 }
-h3 {font-family: 'Raleway', sans-serif;}
+h3 {font-family: 'Raleway', sans-serif;
+    color: #c9c9c9;
+}
+
 .button-collapse {
   color: #26a69a;
 }
-.slider{height: 850px;}
+.slider
+{height: 850px;}
 
-ul.slides {
+.slides {
   height: 800px;
 }
 
