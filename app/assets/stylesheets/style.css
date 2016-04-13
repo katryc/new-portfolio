@@ -45,7 +45,7 @@ p {
   line-height: 3rem;
 
 }
-h3 {font-family: 'Raleway', sans-serif;
+h3, h4 {font-family: 'Raleway', sans-serif;
     font-weight: 500;
     color: #c9c9c9;
 }
